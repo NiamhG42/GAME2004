@@ -14,7 +14,7 @@
 - [Unity Scripting Reference](https://docs.unity3d.com/ScriptReference/index.html)
 - [Catlike Coding](https://catlikecoding.com/unity/tutorials/)
 
-## Reading
+## Reading (Don't)
 - Ferrone, Harrison (2019) Learning C# by Developing Games with Unity 2019, 4th Ed., Packt Publishing
 - Buckland, Mat (2005) Programming Game AI by Example, Worldware Publishing Inc
 
