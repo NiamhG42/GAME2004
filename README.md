@@ -1,4 +1,4 @@
-# GAME2004 Game Tools II 2020
+# GAME2004 Game Tools II 2020 CHANGED
 
 ## Resources
 - [Class Facebook page](https://www.facebook.com/groups/2895869543768121)
@@ -7,14 +7,14 @@
 ## Contact
 * Email: robbogucki@gmail.com
 
-## Resources
+## Resources 
 
 #### Unity/C# Scripting:
 - [Unity User Manual](https://docs.unity3d.com/Manual/index.html)
 - [Unity Scripting Reference](https://docs.unity3d.com/ScriptReference/index.html)
 - [Catlike Coding](https://catlikecoding.com/unity/tutorials/)
 
-## Reading (Don't)
+## Reading
 - Ferrone, Harrison (2019) Learning C# by Developing Games with Unity 2019, 4th Ed., Packt Publishing
 - Buckland, Mat (2005) Programming Game AI by Example, Worldware Publishing Inc
 
